@@ -4,7 +4,7 @@
 
 ## Here are some Endpoints
 
-## Employee
+## Camera
 
 - search
 
